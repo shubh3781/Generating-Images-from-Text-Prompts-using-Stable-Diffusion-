@@ -1,5 +1,3 @@
-
-```markdown
 # Text-to-Image Generation with Stable Diffusion
 
 This project demonstrates how to use the Stable Diffusion model to generate images from textual prompts. By leveraging the `diffusers` library from Hugging Face, this project provides a straightforward approach to transforming text into images using a pre-trained Stable Diffusion model.
@@ -20,7 +18,7 @@ To get started with this project, ensure you have Python installed along with th
 
 ```bash
 pip install diffusers torch pillow
-```
+
 
 ## Usage
 
